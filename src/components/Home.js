@@ -4,7 +4,7 @@ function Home() {
     return (
         <>
             <h1>My Header</h1>
-            <button>My Button</button>
+            
             <ul>
                 <li>
                     <a href="">Home</a>
