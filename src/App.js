@@ -8,11 +8,13 @@ import HeroSection from "./components/HeroSection";
 function App() {
   return (
     <>
+        <Navbar />
       <div className="background">
 
-        <Navbar />
         <HeroSection />
+        
       </div>
+      <Footer />
 
     </>
   );
